@@ -1,0 +1,5 @@
+{
+  "name": "Smart Image Extractor",
+  "description": "Extract images from Office documents (Word, Excel) and analyze them using Gemini AI.",
+  "requestFramePermissions": []
+}
